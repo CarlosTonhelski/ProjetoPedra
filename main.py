@@ -1,5 +1,5 @@
 import os 
 os.system ("cls")
+mensagem = "Boa noite"
+print(mensagem)
 
-print("Chega aí paizão")
-print("tu é o mai")
